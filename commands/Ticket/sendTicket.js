@@ -15,7 +15,7 @@ module.exports = {
    * @param {ChatInputCommandInteraction} interaction
    */
   async execute(interaction, client) {
-    const channel = await interaction.guild.channels.cache.find((x) => x.id === "1012465722590494740");
+    const channel = await interaction.guild.channels.cache.find((x) => x.id === "");
     interaction.reply({ content: "Ticket message sent successfully!", ephemeral: true });
 
     const rowButton = new ActionRowBuilder()
