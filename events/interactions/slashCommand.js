@@ -16,7 +16,7 @@ module.exports = {
             ephemeral: true
         });
 
-        if(command.developer && interaction.user.id !== "973668014568378389")
+        if(command.developer && interaction.user.id !== "")
         return interaction.reply({
             content: "Command available only for the developer.",
             ephemeral: true
