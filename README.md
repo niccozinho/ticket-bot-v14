@@ -1,3 +1,3 @@
 ### 🧾 Discord Ticket Bot
 
-This is just a simple Ticket Bot I made to be the first project in the portfolio, as I had stopped making bots and came back recently (August 14th). 
+This is my first recent project since I got back to work in this area, a Discord Bot with just a simple Ticket system, using buttons and SlashCommand (/).
